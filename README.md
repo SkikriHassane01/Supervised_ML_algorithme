@@ -1,6 +1,6 @@
 # Supervised_ML_algorithme
 
-
+![](https://cdn.botpenguin.com/assets/website/Supervised_Learning_2ae4dbc912.png)
 ### This collection of Kaggle notebooks is designed to offer a clear understanding of several key machine learning algorithms. Each notebook is dedicated to exploring a specific algorithm, breaking down its concepts, and providing practical insights into its application.
 
 ## 1. Linear Regression: Understanding the Process
